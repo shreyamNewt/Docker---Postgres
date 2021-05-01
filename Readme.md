@@ -19,9 +19,11 @@ Python
 ###### HEADERS
 
 1. Postgres setup 
-	1. [Postgres Dockerfile](https://github.com/shreyamNewt/Docker/blob/main/Docker%20Basic%20Commands.md)
-2. Create table and Function 
-	1. [Postgres Function](https://github.com/shreyamNewt/Docker/blob/main/Docker%20Basic%20Commands1.md)
+	1. [Postgres Dockerfile](https://github.com/shreyamNewt/Docker---Postgres/blob/main/Dockerfile)
+2. Create and call Function to Insert data
+	1. [Postgres Function](https://github.com/shreyamNewt/Docker---Postgres/blob/main/Create_and_Call_Function.md)
+3. Python script to call the postgres fuction
+        1. [Python Script] (https://github.com/shreyamNewt/Docker---Postgres/blob/main/Insert_Data.py)
 
 
 
