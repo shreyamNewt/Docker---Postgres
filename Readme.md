@@ -23,7 +23,7 @@ Python
 2. Create and call Function to Insert data
 	1. [Postgres Function](https://github.com/shreyamNewt/Docker---Postgres/blob/main/Create_and_Call_Function.md)
 3. Python script to call the postgres fuction
-        1. [Python Script] (https://github.com/shreyamNewt/Docker---Postgres/blob/main/Insert_Data.py)
+        1. [Python Script](https://github.com/shreyamNewt/Docker---Postgres/blob/main/Insert_Data.py)
 
 
 
